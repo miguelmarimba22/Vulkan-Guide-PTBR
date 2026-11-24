@@ -1,0 +1,11 @@
+# Repositório upstream clonado apenas para extrair imagens/fontes durante o build
+Vulkan-Guide/
+
+# Artefatos intermediários gerados pelo build_typst.mjs
+clean_svgs/
+vulkan_guide_ptbr.typ
+
+# Temporários e sistema
+*.log
+.DS_Store
+Thumbs.db
